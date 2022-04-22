@@ -1,0 +1,35 @@
+
+
+.btn {
+    color: white;
+    background-color: #000000;
+    display: block;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.notify {
+    background-color: #ccc;
+    color: #000;
+    border: solid 1px rgb(0, 0, 0);
+    display: inline-block;
+    border-radius: 13px;
+    margin-top: 25px;
+}
+
+
+p{
+    font-size:25px;
+}
+body{
+    margin: 0 40px;
+}
+
+h3{
+    color: red;
+    margin: 0 -20px;
+}
